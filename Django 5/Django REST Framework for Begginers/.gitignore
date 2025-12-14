@@ -1,0 +1,8 @@
+/apps/accounts/migrations/
+/apps/profiles/migrations/
+/apps/sellers/migrations/
+/apps/shop/migrations/
+/.idea/
+/.venv/
+/apps/common/migrations/
+/tokens
